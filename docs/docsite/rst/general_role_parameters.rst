@@ -112,9 +112,6 @@ Setting up INWX modules
 ~~~~~~~~~~~~~~~~~~~~~~
 
 For ``inwx`` (`inwx.de <https://inwx.de>`_) the available Ansible Galaxy collection ``inwx.collection`` (`galaxy.ansible.com <https://galaxy.ansible.com/inwx/collection>`_) needs to be installed.
-Its as simple as:
-```bash
-ansible-galaxy collection install inwx.collection
-```
+Its as simple as: ``ansible-galaxy collection install inwx.collection``
 
 https://galaxy.ansible.com/inwx/collection
